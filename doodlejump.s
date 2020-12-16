@@ -1,10 +1,9 @@
 #####################################################################
 #
-# CSCB58 Fall 2020 Assembly Final Project
-# University of Toronto, Scarborough
+#  Assembly Final Project
+# 
 #
-# Student: Name, Student Number
-# Junheng Wang, 1006390031
+# 
 # Bitmap Display Configuration:
 # - Unit width in pixels: 16					     
 # - Unit height in pixels: 16
