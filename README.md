@@ -4,8 +4,7 @@
 
 
 
-![Alt Text](https://gifs.com/gif/assembly-project-DqZ6PB)
-
+https://j.gifs.com/DqZ6PB.gif
 
 
 
